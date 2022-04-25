@@ -19,3 +19,34 @@
 .nav-div-width{
     width: 12%;
 }
+.div-items ul{
+    display: flex;
+    padding-top: 20px;
+}
+.div-items ul li{
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+    color: #677788;
+}
+.div-items ul li:hover{
+    color: #3d91ff;
+}
+.ul-span-style{
+    margin-right: 30px;
+    font-size: 18px;
+    color: #3d91ff;
+}
+.btn-style{
+    background-color: #2c87ff;
+    padding: 6px 14px;
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.btn-style:hover{
+    background-color: #2f6ad9;
+    box-shadow: 0 0 7px 3.5px #cbddff;
+}
