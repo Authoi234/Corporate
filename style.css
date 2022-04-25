@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.demos-style{
+    padding: 15px 0;
+    margin-right: 30px;
+    color: blue;
+}
+.Docs-style{
+    padding: 15px 0;
+}
+.Docs-style:hover{
+    color: blue;
+}
+.img-width{
+    width: 100%;
+}
+.nav-div-width{
+    width: 12%;
+}
