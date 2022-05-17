@@ -91,3 +91,18 @@
     font-size: 17px;
     text-decoration: none;
 }
+.margin-b{
+    margin-bottom: 50px;
+}
+.fw-500{
+    font-weight: 500;
+}
+.div-width1{
+    width: 28%;
+}
+.div-width2{
+    width: 32%;
+}
+.bdr-rds{
+    border-radius: 15px;
+}
